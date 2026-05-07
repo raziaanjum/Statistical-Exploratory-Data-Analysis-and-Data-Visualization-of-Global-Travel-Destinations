@@ -31,12 +31,12 @@ Pairplots
 
 ## 🛠️ Tech Stack
 Tool | Purpose |
-**Python 3.x** | Core programming language |
- **Pandas** | Data loading, cleaning, and manipulation |
-**NumPy** | Numerical computation and statistical operations |
-**Matplotlib** | Base-level plotting and figure customization |
-**Seaborn** | Statistical visualization and styled plots |
-**Kaggle Notebook** | Interactive EDA environment |
+- **Python 3.x** | Core programming language |
+- **Pandas** | Data loading, cleaning, and manipulation |
+- **NumPy** | Numerical computation and statistical operations |
+- **Matplotlib** | Base-level plotting and figure customization |
+- **Seaborn** | Statistical visualization and styled plots |
+- **Kaggle Notebook** | Interactive EDA environment |
 
 # 📈 Key Insights
 Identified trends in global tourism destinations
