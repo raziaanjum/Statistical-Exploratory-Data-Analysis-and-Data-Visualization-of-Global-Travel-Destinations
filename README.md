@@ -45,11 +45,8 @@ Analyzed seasonal tourism behavior
 Explored the impact of UNESCO heritage status on popularity
 
 # 🚀 Future Work & Improvements
-We can build an interactive Global Travel Destinations dashboard 
-
-We can add machine learning-based travel recommendations
-
-We can integrate real-time tourism datasets
-
-We can perform predictive analytics for visitor forecasting
+- We can build an interactive Global Travel Destinations dashboard 
+- We can add machine learning-based travel recommendations
+- We can integrate real-time tourism datasets
+- We can perform predictive analytics for visitor forecasting
 
