@@ -1,0 +1,2 @@
+# Statistical-Exploratory-Data-Analysis-and-Data-Visualization-of-Global-Travel-Destinations
+This project performs a statistical -EDA on global travel destinations to uncover meaningful insights about cost, ratings, visitor trends, seasonality, and UNESCO status. Businesses can use to make data-driven decisions. The dataset is visualized through univariate, bivariate, and multivariate plots, along with correlation graph and analysis.
